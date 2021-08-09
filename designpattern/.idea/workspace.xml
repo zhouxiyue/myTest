@@ -86,7 +86,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/tool/jdk-1.8.0_152-windows-x64/src.zip!/java/lang/Class.java">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk-1.8.0_152-windows-x64/src.zip!/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="107496">
               <caret line="3081" selection-start-line="3081" selection-end-line="3081" />
@@ -277,8 +277,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628500749341" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springAOP" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628501278782" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -495,7 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tool/jdk-1.8.0_152-windows-x64/src.zip!/java/lang/Object.java">
+    <entry file="jar://$PROJECT_DIR$/../../../jdk-1.8.0_152-windows-x64/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
@@ -789,7 +789,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tool/jdk-1.8.0_152-windows-x64/src.zip!/java/lang/reflect/Method.java">
+    <entry file="jar://$PROJECT_DIR$/../../../jdk-1.8.0_152-windows-x64/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
@@ -851,7 +851,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/tool/jdk-1.8.0_152-windows-x64/src.zip!/java/lang/Class.java">
+    <entry file="jar://$PROJECT_DIR$/../../../jdk-1.8.0_152-windows-x64/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107496">
           <caret line="3081" selection-start-line="3081" selection-end-line="3081" />
